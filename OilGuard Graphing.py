@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 
-ExampleOne = "OilGuard_DataCollector_Example[2].xlsx"
+ExampleOne = "Example.xlsx"
 
 RawData1 = pd.read_excel(ExampleOne)
 
@@ -34,14 +34,3 @@ axs[1].grid()
 plt.tight_layout()
 
 plt.show()
-
-
-
-# plt.scatter(x_data, y_data) --> this function scatter points in x-y plane
-#  # c="" --> attribute for color
-# s= --> attrinut for line size
-# marker="" --> attribute for shape of point marker : square, star
-
-#plt.plot() --> take x data and y data or only y data and draw them as a line
-# c="" --> attribute for color
-# s= --> attrinut for line size
