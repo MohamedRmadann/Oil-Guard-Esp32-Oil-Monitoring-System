@@ -10,7 +10,7 @@ OilGuard is an IoT-based smart monitoring system designed to help fleet managers
 <h2>Utilities Used</h2>
 
 - <b>Arduino IDE</b> 
-- <b>FireBbse</b>
+- <b>FireBase</b>
 - <b>MIT App Inventor</b>
 - <b>Google Sheet</b>
 - <b>FireBbse</b>
